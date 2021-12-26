@@ -1,4 +1,4 @@
-# Intro fMRI Data And DataTypes Python
+# Intro fMRI Data And Data Types Python
 - **Neuroscience / Neuroimaging Concepts**
     - Nifti file format for fMRI data
 - **Data Science / Coding Concepts**
